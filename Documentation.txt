@@ -1,0 +1,12 @@
+
+1. Dawn.com
+
+We scrapped data in .csv format.
+Then we done its formatting so that the data should be in a properly arranged form and for its easy processing.
+Then we kept only necessary data for our model and didn't kept any unnecessary data so that there is minimum space utilization.
+
+1. BBC.com
+
+We scrapped data in .csv format.
+No formatting was required as data was well arranged.
+Then we kept only necessary data for our model and didn't kept any unnecessary data so that there is minimum space utilization.
